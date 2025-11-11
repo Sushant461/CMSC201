@@ -5,7 +5,7 @@ Date:    10/03/2025
 Section: 42
 E-mail:  ssharm11@umbc.edu
 Description: Gauss sum until exceeding input
-  
+
 """
 if __name__ == "__main__":
 
@@ -19,5 +19,5 @@ if __name__ == "__main__":
         total = total + k
     
     print("After",k, "iterations, the Gauss sum is", total,"which exceeds (or is eqal to) the number",target)
-
+ 
     
